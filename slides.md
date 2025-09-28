@@ -88,31 +88,34 @@ graph LR
 <img src="/nocodb-privilege.png" alt="NocoDB 视图类型" class="mx-auto w-3/4" />
 
 ---
-layout: center
----
 
-## 案例：BK7239N 芯片验证流程
+# 案例：BK7239N 芯片验证流程
 
-<div grid="~ cols-2 gap-4" m="t-4">
-  <figure class="text-center">
-    <a href="/BK7239N Overview.png" target="_blank" title="7239N芯片验证">
-      <img src="/BK7239N Overview.png" alt="7239N芯片验证" class="w-60 h-40 object-cover border rounded shadow-sm" />
-    </a>
-    <figcaption class="text-xs mt-1 opacity-70">7239N芯片验证</figcaption>
-  </figure>
-  <figure class="text-center">
-    <a href="/BK7239N Relation Chain.png" target="_blank" title="7239N数据表关联">
-      <img src="/BK7239N Relation Chain.png" alt="7239N数据表关联" class="w-60 h-40 object-cover border rounded shadow-sm" />
-    </a>
-    <figcaption class="text-xs mt-1 opacity-70">7239N数据表关联</figcaption>
-  </figure>
-  
+让测试表格、BugList、ChangeList 集中串联，助力验证流程提效
+
+<div class="w-full flex flex-col items-center justify-center">
+  <div grid="~ cols-2 gap-4" m="t-4">
+    <figure class="text-center">
+      <a href="/BK7239N Overview.png" target="_blank" title="7239N芯片验证">
+        <img src="/BK7239N Overview.png" alt="7239N芯片验证" class="w-100 h-60 object-cover border rounded shadow-sm" />
+      </a>
+      <figcaption class="text-xs mt-1 opacity-70">7239N芯片验证</figcaption>
+    </figure>
+    <figure class="text-center">
+      <a href="/BK7239N Relation Chain.png" target="_blank" title="7239N数据表关联">
+        <img src="/BK7239N Relation Chain.png" alt="7239N数据表关联" class="w-100 h-60 object-cover border rounded shadow-sm" />
+      </a>
+      <figcaption class="text-xs mt-1 opacity-70">7239N数据表关联</figcaption>
+    </figure>
+  </div>
+  <div class="mt-2 text-xs opacity-50 text-center">* 缩略图尺寸裁剪显示，点击查看原始清晰度 *</div>
 </div>
-<div class="mt-2 text-xs opacity-50">* 缩略图尺寸裁剪显示，点击查看原始清晰度 *</div>
 
 ---
+layout: end
+---
 
-# 现场交流与讨论
+# 问题反馈与现场讨论
 
-- 使用问题：可将问题填写在 README 项目的问题反馈表中；
-- 访问性问题：如遇浏览器报 500，可尝试找 IT 升级浏览器；
+- 关于使用问题：可将问题填写在 README 项目的问题反馈表中
+- 关于访问性问题：如遇浏览器报 500，可尝试找 IT 升级浏览器
