@@ -88,9 +88,59 @@ graph LR
 <img src="/nocodb-privilege.png" alt="NocoDB 视图类型" class="mx-auto w-3/4" />
 
 ---
+layout: center
+---
+
+## 案例一：BK7239N 芯片验证流程
+
+<div grid="~ cols-2 gap-4" m="t-4">
+  <figure class="text-center">
+    <a href="/BK7239N Overview.png" target="_blank" title="7239N芯片验证">
+      <img src="/BK7239N Overview.png" alt="7239N芯片验证" class="w-60 h-40 object-cover border rounded shadow-sm" />
+    </a>
+    <figcaption class="text-xs mt-1 opacity-70">7239N芯片验证</figcaption>
+  </figure>
+  <figure class="text-center">
+    <a href="/BK7239N Relation Chain.png" target="_blank" title="7239N数据表关联">
+      <img src="/BK7239N Relation Chain.png" alt="7239N数据表关联" class="w-60 h-40 object-cover border rounded shadow-sm" />
+    </a>
+    <figcaption class="text-xs mt-1 opacity-70">7239N数据表关联</figcaption>
+  </figure>
+  
+</div>
+<div class="mt-2 text-xs opacity-50">* 缩略图尺寸裁剪显示，点击查看原始清晰度 *</div>
+
+---
+layout: center
+---
+
+## 案例二：BK7239N 三星需求处理进度
+
+<div grid="~ cols-3 gap-4" m="t-4">
+  <figure class="text-center">
+    <a href="/BK7239 Samsung Require.png" target="_blank" title="需求处理表格">
+      <img src="/BK7239 Samsung Require.png" alt="需求处理表格" class="w-60 h-40 object-cover border rounded shadow-sm" />
+    </a>
+    <figcaption class="text-xs mt-1 opacity-70">需求处理表格</figcaption>
+  </figure>
+  <figure class="text-center">
+    <a href="/BK7239 Samsung Require KANBAN.png" target="_blank" title="KANBAN 视图">
+      <img src="/BK7239 Samsung Require KANBAN.png" alt="KANBAN 视图" class="w-60 h-40 object-cover border rounded shadow-sm" />
+    </a>
+    <figcaption class="text-xs mt-1 opacity-70">KANBAN 视图</figcaption>
+  </figure>
+  <figure class="text-center">
+    <a href="/BK7239 Samsung Require Owner.png" target="_blank" title="Owner 视图">
+      <img src="/BK7239 Samsung Require Owner.png" alt="Owner 视图" class="w-60 h-40 object-cover border rounded shadow-sm" />
+    </a>
+    <figcaption class="text-xs mt-1 opacity-70">Owner 视图</figcaption>
+  </figure>
+</div>
+<div class="mt-2 text-xs opacity-50">* 缩略图尺寸裁剪显示，点击查看原始清晰度 *</div>
+
+---
 
 # 现场交流与讨论
 
-问题反馈途径：
 - 使用问题：可将问题填写在 README 项目的问题反馈表中；
 - 访问性问题：如遇浏览器报 500，可尝试找 IT 升级浏览器；
