@@ -10,10 +10,8 @@ colorSchema: auto
 title: NocoDB 内网工具分享
 info: |
   内部分享 · 2025-09-28
-seoMeta:
-  # By default, Slidev will use ./og-image.png if it exists,
-  # or generate one from the first slide if not found.
-  ogImage: auto
+seoMeta: {}
+download: false
 ---
 
 # NocoDB
