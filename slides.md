@@ -91,7 +91,7 @@ graph LR
 layout: center
 ---
 
-## 案例一：BK7239N 芯片验证流程
+## 案例：BK7239N 芯片验证流程
 
 <div grid="~ cols-2 gap-4" m="t-4">
   <figure class="text-center">
@@ -107,34 +107,6 @@ layout: center
     <figcaption class="text-xs mt-1 opacity-70">7239N数据表关联</figcaption>
   </figure>
   
-</div>
-<div class="mt-2 text-xs opacity-50">* 缩略图尺寸裁剪显示，点击查看原始清晰度 *</div>
-
----
-layout: center
----
-
-## 案例二：BK7239N 三星需求处理进度
-
-<div grid="~ cols-3 gap-4" m="t-4">
-  <figure class="text-center">
-    <a href="/BK7239 Samsung Require.png" target="_blank" title="需求处理表格">
-      <img src="/BK7239 Samsung Require.png" alt="需求处理表格" class="w-60 h-40 object-cover border rounded shadow-sm" />
-    </a>
-    <figcaption class="text-xs mt-1 opacity-70">需求处理表格</figcaption>
-  </figure>
-  <figure class="text-center">
-    <a href="/BK7239 Samsung Require KANBAN.png" target="_blank" title="KANBAN 视图">
-      <img src="/BK7239 Samsung Require KANBAN.png" alt="KANBAN 视图" class="w-60 h-40 object-cover border rounded shadow-sm" />
-    </a>
-    <figcaption class="text-xs mt-1 opacity-70">KANBAN 视图</figcaption>
-  </figure>
-  <figure class="text-center">
-    <a href="/BK7239 Samsung Require Owner.png" target="_blank" title="Owner 视图">
-      <img src="/BK7239 Samsung Require Owner.png" alt="Owner 视图" class="w-60 h-40 object-cover border rounded shadow-sm" />
-    </a>
-    <figcaption class="text-xs mt-1 opacity-70">Owner 视图</figcaption>
-  </figure>
 </div>
 <div class="mt-2 text-xs opacity-50">* 缩略图尺寸裁剪显示，点击查看原始清晰度 *</div>
 
