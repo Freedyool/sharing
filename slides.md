@@ -32,8 +32,7 @@ download: false
 </div>
 
 ---
-transition: fade-out
----
+
 # 目录
 
 <Toc minDepth="1" maxDepth="1" />
